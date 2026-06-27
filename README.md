@@ -416,13 +416,6 @@ Ctrl + C
 * Meeting search and retrieval
 
 ---
-
-# License
-
-This project is released under the MIT License.
-
----
-
 # Author
 
 **Wafaa Ihmouda**
